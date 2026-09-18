@@ -1,0 +1,8 @@
+{
+  "name": "customer_classifier",
+  "version": "1.2.0",
+  "framework": "pytorch",
+  "architecture": "resnet18",
+  "accuracy": 0.94,
+  "input_shape": [3, 224, 224]
+}
